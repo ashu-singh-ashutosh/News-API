@@ -5,7 +5,7 @@ and displays news using a News API.
 
 ## 🌐 Live Demo
 
-news-api-flax-theta.vercel.app
+[View Live Website](news-api-flax-theta.vercel.app)
 
 ## 🛠️ Technologies
 
